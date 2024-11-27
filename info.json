@@ -1,0 +1,11 @@
+{
+	"name": "continuous-research",
+	"version": "0.1.0",
+	"title": "Continuous Research",
+	"author": "EmilyV99",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0"
+	],
+	"description": "When finishing a tiered research, automatically add the next tier to the queue (assuming all prerequisites are met)."
+}
